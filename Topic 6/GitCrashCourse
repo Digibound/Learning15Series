@@ -1,0 +1,46 @@
+
+Course Description:
+This intensive 15-hour course focuses on essential Git concepts and practical skills. You will learn how to use Git effectively for version control, collaboration, and project management. Each session includes hands-on assignments to reinforce your understanding.
+
+Instructor: Aditya/Aayushi
+
+Chapter 1: Introduction to Git 
+	Session 1.1: Getting Started with Git 
+		-Introduction to Git and its importance
+		-Installing Git
+		-Configuring Git with your name and email
+	Session 1.2: Creating Your First Repository 
+		-Initializing a Git repository
+		-Adding and committing files
+		-Checking the Git status
+	Session 1.3: Basic Git Workflow
+		-Working with branches
+		-Merging branches
+		-Resolving conflicts
+Assignment 1: Set up Git on your computer, create a repository, and make your first commit.
+
+Chapter 2: Cloning and Remote Repositories
+	Session 2.1: Cloning and Remote Repositories
+		-Cloning remote repositories
+		-Adding and managing remote repositories
+		-Fetching and pulling changes
+	Session 2.2: Collaborating with Others
+		-Pushing changes to remote repositories
+		-Pull requests and code reviews
+		-Handling collaboration conflicts
+Assignment 2: Collaborate with a classmate on a shared repository. Make and merge pull requests.
+
+Chapter 3: Advanced Git Concepts
+	Session 3.1: Branching Strategies
+		-Understanding Git branching models
+		-Feature branching and release branching
+		-Rebasing vs. merging
+	Session 3.2: Git Rebase and Cherry-Pick
+		-Interactive rebase for cleaning up commits
+		-Cherry-picking specific commits
+		-Resolving conflicts during rebase
+	Session 3.3: Git Workflows
+		-Exploring popular Git workflows (e.g., Gitflow)
+		-Choosing the right workflow for your project
+Assignment 3: Implement a branching strategy for a sample project and perform a successful rebase.
+
